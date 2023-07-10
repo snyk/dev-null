@@ -10,4 +10,4 @@ workflows:
           name: Scan repository for secrets
           context:
             - snyk-bot-slack
-          channel: team-commet
+          channel: team-comet
