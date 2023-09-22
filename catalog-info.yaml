@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dev-null
+  annotations:
+    github.com/project-slug: snyk/dev-null
+    github.com/team-slug: snyk/comet
+spec:
+  type: tests
+  lifecycle: "-"
+  owner: comet
