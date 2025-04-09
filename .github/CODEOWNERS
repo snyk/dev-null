@@ -1,1 +1,4 @@
 * @snyk/scm-platform
+
+# Used by PR check tests, no codeowner needed for those
+a/
